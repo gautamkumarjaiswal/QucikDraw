@@ -23,3 +23,8 @@ Step 5: Run readDataset.py to load dataset.
 step 6: Use trainModel.py to train CNN model, This may take some time depend on configuration of system.
 
 Step 7: Run runWebCam.py to test developed model.
+
+
+For more detail visit 
+
+https://towardsdatascience.com/play-with-quickdraw-a-real-time-application-137e66ea9b60
